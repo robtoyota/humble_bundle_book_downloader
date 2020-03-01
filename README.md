@@ -1,0 +1,2 @@
+# Download Humble Bundle Books
+Save the rendered HTML of a purchased book bundle to a directory, and then run this script against that directory to download all of the files with appropriate file names. 
