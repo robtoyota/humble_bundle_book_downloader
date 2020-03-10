@@ -162,7 +162,8 @@ def main():
 				# "20191208 - Data Science by No Starch Press",
 				# "20200112 - Python & Machine Learning by Packt",
 				# "20200202 - Project Management by Taylor & Francis",
-				"20200301 - User Experience (UX) Design By Morgan & Claypool"
+				# "20200301 - User Experience (UX) Design By Morgan & Claypool",
+				"20200308 - Cybersecurity 2020 by Wiley",
 			]
 
 	# Loop through each directory
