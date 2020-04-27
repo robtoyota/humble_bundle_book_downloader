@@ -164,8 +164,9 @@ def main():
 				# "20200202 - Project Management by Taylor & Francis",
 				# "20200301 - User Experience (UX) Design By Morgan & Claypool",
 				# "20200308 - Cybersecurity 2020 by Wiley",
-				"20200329 - Land a Tech Job 2.0 by For Dummies",
-				"20200412 - Software Development by O'Reilly",
+				# "20200329 - Land a Tech Job 2.0 by For Dummies",
+				# "20200412 - Software Development by O'Reilly",
+				"20200427 - Artificial Intelligence & Machine Learning by Morgan & Claypool",
 			]
 
 	# Loop through each directory
