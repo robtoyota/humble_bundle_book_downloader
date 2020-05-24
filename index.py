@@ -167,8 +167,9 @@ def main():
 				# "20200329 - Land a Tech Job 2.0 by For Dummies",
 				# "20200412 - Software Development by O'Reilly",
 				# "20200427 - Artificial Intelligence & Machine Learning by Morgan & Claypool",
-				"20200517 - C# & .NET Core by Packt",
-				"20200518 - Definitive Guides to All Things Programming by O'Reilly",
+				# "20200517 - C# & .NET Core by Packt",
+				# "20200518 - Definitive Guides to All Things Programming by O'Reilly",
+				"20200523 - Learn You Some Python by No Starch Press",
 			]
 
 	# Loop through each directory
